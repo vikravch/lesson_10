@@ -1,0 +1,7 @@
+.row>div{
+    background: coral;
+    border: 1px solid black;
+}
+.max-height{
+    height:100%;
+}
